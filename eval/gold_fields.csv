@@ -1,0 +1,4 @@
+document,field,gold_value,page,quote
+synthetic_advisory_a.pdf,CVE ID,CVE-2099-12345,1,"Fictional ExampleSoft Gateway 4.2 is affected by the fictional CVE-2099-12345."
+synthetic_advisory_a.pdf,fixed version,4.2.8,1,"The fictional vendor recommends upgrading to version 4.2.8."
+synthetic_advisory_b_conflict.pdf,fixed version,4.3.1,1,"This conflicting test document says the recommended fixed version is 4.3.1."

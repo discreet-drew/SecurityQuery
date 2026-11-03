@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sc01",
+    "documents": [
+      "synthetic_advisory_a.pdf",
+      "synthetic_advisory_b_conflict.pdf"
+    ],
+    "entity": "CVE-2099-12345",
+    "field": "fixed version",
+    "values": {
+      "synthetic_advisory_a.pdf": "4.2.8",
+      "synthetic_advisory_b_conflict.pdf": "4.3.1"
+    },
+    "expected_behavior": "Report a source-attributed conflict; do not silently choose a value.",
+    "synthetic": true
+  }
+]

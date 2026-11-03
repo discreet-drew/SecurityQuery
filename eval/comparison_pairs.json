@@ -1,0 +1,9 @@
+[
+  {
+    "left": "synthetic_advisory_a.pdf",
+    "right": "synthetic_advisory_b_conflict.pdf",
+    "field": "fixed version",
+    "expected": "conflict",
+    "synthetic": true
+  }
+]

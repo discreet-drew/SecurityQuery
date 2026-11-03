@@ -1,0 +1,7 @@
+title,publisher,url,license,publication_date,synthetic_flag
+OWASP Top 10,OWASP Foundation,https://owasp.org/Top10/,See official site terms,2025,false
+NIST Cybersecurity Framework 2.0,NIST,https://www.nist.gov/cyberframework,U.S. government work; verify page-specific terms,2024-02-26,false
+National Vulnerability Database,NIST NVD,https://nvd.nist.gov/,See NVD data feeds and terms,rolling,false
+MITRE ATT&CK Enterprise,MITRE,https://attack.mitre.org/,CC BY 4.0 (verify current terms),rolling,false
+CISA Known Exploited Vulnerabilities Catalog,CISA,https://www.cisa.gov/known-exploited-vulnerabilities-catalog,U.S. government work; verify page-specific terms,rolling,false
+Synthetic advisory fixtures,SecQuery project,N/A,Project-generated test data,2026-10-26,true
